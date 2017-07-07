@@ -4,3 +4,4 @@ Git is free2
 Git is free3
 branch test
 git is quick and  simple
+git is quick &  simple2
